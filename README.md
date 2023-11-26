@@ -3,6 +3,7 @@ This repository contains a dataset of Romanized Sinhala to SInhala Dataset with 
 
 Link:
 Unique words : [17.8MB]
+
 https://www.kaggle.com/datasets/tgdeshank/swa-bhasha-dataset-unique-words-sinhala-singlish
 
 Sinhala - Singlish Adhoc Transliterals [286MB]
