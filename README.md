@@ -13,6 +13,7 @@ https://www.kaggle.com/datasets/tgdeshank/swa-bhasha-dataset
 If you are using API Command :
 
 Unique words
+
 kaggle datasets download -d tgdeshank/swa-bhasha-dataset-unique-words-sinhala-singlish
 
 Sinhala - Singlish Adhoc Transliterals
