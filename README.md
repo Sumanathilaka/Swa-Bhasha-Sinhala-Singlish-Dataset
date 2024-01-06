@@ -15,6 +15,10 @@ https://www.kaggle.com/datasets/tgdeshank/swa-bhasha-dataset
 
 https://www.kaggle.com/datasets/tgdeshank/romanized-sinhala-sinhala-social-media-dataset/data
 
+4. WSD Romanized Sinhala Sinhala Transliteration Dataset
+
+https://www.kaggle.com/datasets/tgdeshank/wsd-romanized-sinhala-dataset/settings
+
 **If you are using API Command :**
 
 1. Unique words
@@ -28,6 +32,10 @@ kaggle datasets download -d tgdeshank/swa-bhasha-dataset
 3. Romanized Sinhala - Sinhala Social Media dataset [Sentence Pair]
 
 kaggle datasets download -d tgdeshank/romanized-sinhala-sinhala-social-media-dataset
+
+4.  WSD Romanized Sinhala Sinhala Transliteration Dataset
+      
+kaggle datasets download -d tgdeshank/wsd-romanized-sinhala-dataset
 
 
 If you are using this dataset:
