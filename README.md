@@ -1,24 +1,33 @@
-# Swa-Bhasha-Dataset
-This repository contains a dataset of Romanized Sinhala to SInhala Dataset with Adhoc Transliterals
+**# Swa-Bhasha-Dataset**
+This repository contains a dataset of Romanized Sinhala to Sinhala Dataset with Adhoc Transliterals.
 
-Link:
-Unique words : [17.8MB]
+**Link:**
+
+1. Unique words : [17.8MB]
 
 https://www.kaggle.com/datasets/tgdeshank/swa-bhasha-dataset-unique-words-sinhala-singlish
 
-Sinhala - Singlish Adhoc Transliterals [286MB]
+2. Sinhala - Singlish Adhoc Transliterals [286MB]
 
 https://www.kaggle.com/datasets/tgdeshank/swa-bhasha-dataset
 
-If you are using API Command :
+3. Romanized Sinhala - Sinhala Social Media dataset [Sentence Pair]
 
-Unique words
+https://www.kaggle.com/datasets/tgdeshank/romanized-sinhala-sinhala-social-media-dataset/data
+
+**If you are using API Command :**
+
+1. Unique words
 
 kaggle datasets download -d tgdeshank/swa-bhasha-dataset-unique-words-sinhala-singlish
 
-Sinhala - Singlish Adhoc Transliterals
+2. Sinhala - Singlish Adhoc Transliterals
 
 kaggle datasets download -d tgdeshank/swa-bhasha-dataset
+
+3. Romanized Sinhala - Sinhala Social Media dataset [Sentence Pair]
+
+kaggle datasets download -d tgdeshank/romanized-sinhala-sinhala-social-media-dataset
 
 
 If you are using this dataset:
