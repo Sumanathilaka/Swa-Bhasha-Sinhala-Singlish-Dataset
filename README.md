@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/tgdeshank/wsd-romanized-sinhala-dataset/settings
 
 kaggle datasets download -d tgdeshank/swa-bhasha-dataset-unique-words-sinhala-singlish
 
-2. Sinhala - Singlish Adhoc Transliterals
+2.  Sinhala - Romanized Sinhala Adhoc Transliterals [286MB]
 
 kaggle datasets download -d tgdeshank/swa-bhasha-dataset
 
