@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/tgdeshank/romanized-sinhala-sinhala-social-media
 
 4. WSD Romanized Sinhala Sinhala Transliteration Dataset
 
-[https://www.kaggle.com/datasets/tgdeshank/wsd-romanized-sinhala-dataset/settings](https://www.kaggle.com/datasets/tgdeshank/wsd-romanized-sinhala-dataset)
+[https://www.kaggle.com/datasets/tgdeshank/wsd-romanized-sinhala-dataset](https://www.kaggle.com/datasets/tgdeshank/wsd-romanized-sinhala-dataset)
 
 **If you are using API Command :**
 
